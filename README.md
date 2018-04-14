@@ -2,10 +2,9 @@
 Algorithmic Game Theory勉強会@東大経研
 
 ## 2018
-* 4/13までに，やったこと:
-
-  - 本多・中村 (2016)　Chapter 1-4
-  - Roughgarden (2016) Chapter 11-17
+* 4/13までに，やったこと
+  * 本多・中村 (2016)　Chapter 1-4
+  * Roughgarden (2016) Chapter 11-17
 
 ### Schedule
 
