@@ -2,15 +2,16 @@
 Algorithmic Game Theory勉強会@東大経研
 
 ## 2018
-
-### Schedule
 * 4/13までに，やったこと:
+
   - 本多・中村 (2016)　Chapter 1-4
   - Roughgarden (2016) Chapter 11-17
 
+### Schedule
+
 | Date                    | Presenter | Topic                       | Room              |
 | ----------------------- | --------- | --------------------------- | ----------------- |
-| 4/20 (Fri) 16:50-       |           | Roughgarden (2016), Chap 18 | 自治会室 (6F)      |
+| 4/21 (Sat) 10:00-       |           | Roughgarden (2016), Chap 18 | 自治会室 (6F)      |
 |                         |           | 本多・中村 (2016), Chap 5     |                   |
 |                         |           | Mansour et al. (2017)       |                   |
 
