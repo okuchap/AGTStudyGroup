@@ -32,3 +32,5 @@ Algorithmic Game Theory勉強会@東大経研
 * Lecture notes on AGT by Aaron Roth
   - http://www.cis.upenn.edu/~aaroth/courses/agtS17.html
 * Nisan et al. (2007), Algorithmic Game Theory.
+* Lecture notes on AGT by Yun Kuen Cheung
+  - http://people.mpi-inf.mpg.de/~ycheung/AGT_CE_MD/main.html
