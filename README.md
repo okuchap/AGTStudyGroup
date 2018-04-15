@@ -34,3 +34,5 @@ Algorithmic Game Theory勉強会@東大経研
 * Nisan et al. (2007), Algorithmic Game Theory.
 * Lecture notes on AGT by Yun Kuen Cheung
   - http://people.mpi-inf.mpg.de/~ycheung/AGT_CE_MD/main.html
+* Lecture: Advanced Topics in Theory of Computing: Bandits, Experts, and Games by Slivkins
+  - http://www.cs.umd.edu/~slivkins/CMSC858G-fall16/
