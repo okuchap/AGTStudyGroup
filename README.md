@@ -11,7 +11,7 @@ Algorithmic Game Theory勉強会@東大経研
 | Date                    | Presenter | Topic                       | Room              |
 | ----------------------- | --------- | --------------------------- | ----------------- |
 | 4/21 (Sat) 10:00-       |           | Roughgarden (2016), Chap 18 | 自治会室 (6F)      |
-|                         |           | 本多・中村 (2016), Chap 5     |                   |
+|                         |           | Slivkins Chap 6             |                   |
 |                         |           | Mansour et al. (2017)       |                   |
 
 
@@ -24,7 +24,9 @@ Algorithmic Game Theory勉強会@東大経研
 * Mansour et al. (2017), 
   "Bayesian Incentive-Compatible Bandit Exploration, "
   Working Paper, EC15.
-
+* Slivkins (2017), 
+  Introduction to Multi-Armed Bandits, draft
+  http://slivkins.com/work/MAB-book.pdf
   
 ### References
 * 徳山 (2007), 
