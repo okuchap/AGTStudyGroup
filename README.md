@@ -11,7 +11,8 @@ Algorithmic Game Theory勉強会@東大経研
 | Date                    | Presenter | Topic                       | Room              |
 | ----------------------- | --------- | --------------------------- | ----------------- |
 | 4/21 (Sat) 10:00-       |           | Roughgarden (2016), Chap 18 | 自治会室 (6F)      |
-|                         |           | Slivkins Chap 6             |                   |
+| 4/28 (Sat) 10:00-       |           | Slivkins Chap 6             |                   |
+|                         |           | Slivkins Chap 7             |                   |
 |                         |           | Mansour et al. (2017)       |                   |
 
 
@@ -38,3 +39,5 @@ Algorithmic Game Theory勉強会@東大経研
   - http://people.mpi-inf.mpg.de/~ycheung/AGT_CE_MD/main.html
 * Lecture: Advanced Topics in Theory of Computing: Bandits, Experts, and Games by Slivkins
   - http://www.cs.umd.edu/~slivkins/CMSC858G-fall16/
+* Gershkov & Moldovanu (2014), 
+  Dynamic Allocation and Pricing: A Mechanism Design Approach
