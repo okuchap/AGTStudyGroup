@@ -3,6 +3,11 @@ Mechanism Design with Approximation勉強会
 
 ## 2020
 
+### Members
+* Kei Ikegami
+* Akira Matsushita
+* Kyohei Okumura
+
 ### Schedule
 
 | Date                    | Presenter | Topic                       | Room              |
